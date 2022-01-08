@@ -1,0 +1,12 @@
+.background{
+    background-color: rgb(217, 233, 232);
+}
+#buttonHover:hover{
+    border: 2px solid #000000;
+    border-radius: 50%;
+    box-sizing: border-box;
+    color: rgb(217, 233, 232);
+}
+.phoneColor{
+    color: rgb(49, 138, 133);
+}
